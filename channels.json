@@ -4,15 +4,15 @@
     "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_1700.m3u8?hdntl=Expires=1781798641~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ_VtGgTWI0VghNotNGvJmYwWNhv3xYqCez-pHHNnlXYBBPtoJSzQoG_ZnPwvxwzx5VFF5XJN6HJ1UWaKwlZlXIF",
     "type": "stream"
   },
+   {
+    "name": "FIFA World Cup Hindi",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
+    "type": "stream"
+  },
   {
     "name": "Tune TV",
     "url": "https://tunetv.netlify.app/",
     "type": "web"
-  },
-   {
-    "name": "Z Cinema",
-    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
-    "type": "stream"
   }
   
 ]
