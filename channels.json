@@ -18,11 +18,6 @@
     "name": "PTV",
     "url": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8",
     "type": "stream"
-  },
-  {
-    "name": "Tune TV",
-    "url": "https://tunetv.netlify.app/",
-    "type": "web"
   }
   
 ]
