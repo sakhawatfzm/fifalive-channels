@@ -1,7 +1,7 @@
 [
   {
     "name": "FIFA World Cup",
-    "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/1/master_1800.m3u8?hdntl=Expires=1781883948~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9JezZnHQPEhTrbNV2NySw-eDkUJj0PlY0q-Wpm_Pq02Hv7SAi45JP99ha4eBffo3ybL22PzmYLiKlm1FnK9CQH",
+    "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
     "type": "stream"
   },
    {
@@ -25,10 +25,16 @@
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.mpd",
     "type": "stream"
   },
+
+  {
+    "name": "Star Jalsha",
+    "url": "https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8",
+    "type": "stream"
+  },
   
   {
-    "name": "Animal Planet",
-    "url": "https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/live/158-3M/chunks.m3u8?nimblesessionid=628012481",
+    "name": "Enterr 10 Bangla",
+    "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
     "type": "stream"
   }
 
