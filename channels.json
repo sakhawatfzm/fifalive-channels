@@ -32,7 +32,11 @@
     "type": "stream"
   },
 
-  
+   {
+    "name": "Test",
+    "url": "https://backend.plusbox.tv/TSports/tracks-a1/index.fmp4.m3u8?token=83360c96d9400243b6f331172f2cc06394db7571-fb88cae281e91a4f914f554cdd243402-1781894397-1781883597",
+    "type": "stream"
+  },
   {
     "name": "Enterr 10 Bangla",
     "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
