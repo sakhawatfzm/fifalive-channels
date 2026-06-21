@@ -17,7 +17,7 @@
   },
 
    {
-    "name": "'Zee Bangla Cinema",
+    "name": "Zee Bangla Cinema",
     "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
     "type": "stream"
   },
@@ -25,6 +25,12 @@
   {
     "name": "Dipto Tv",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.mpd",
+    "type": "stream"
+  },
+
+  {
+    "name": "Animal Planet",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/live/158-3M/chunks.m3u8?nimblesessionid=630321107",
     "type": "stream"
   },
 
