@@ -1,22 +1,21 @@
 [
-
+{
+    "name": "FIFA World Cup",
+    "url": "https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8",
+    "type": "stream"
+  },
   {
     "name": "FIFA World Cup",
     "url": "http://203.18.159.180/t.me/BDIX_Bypass_josh_Rambo___live1FHD__fddc1c2/index.m3u8",
     "type": "stream"
   },
+  
    {
     "name": "FIFA World Cup HD",
     "url": "http://ubuntu.moonplex.net:8080/TSports_HD/tracks-v1a1/mono.m3u8",
     "type": "stream"
   },
 
-   {
-    "name": "Tsports",
-    "url": "https://backend.plusbox.tv/TSports/tracks-a1/index.fmp4.m3u8?token=8a08a7af09d03a45c74465b7ed3a2ca22cb4c884-877879d3514e847fbb1b050024762968-1782025732-1782014932",
-    "type": "stream"
-  },
-  
    {
     "name": "FIFA World Cup Bangla",
     "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
