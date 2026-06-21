@@ -21,12 +21,7 @@
     "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
     "type": "stream"
   },
-  {
-    "name": "PTV",
-    "url": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8",
-    "type": "stream"
-  },
-
+  
   {
     "name": "Dipto Tv",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.mpd",
