@@ -36,7 +36,7 @@
 
   {
     "name": "Animal Planet",
-    "url": "https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/live/158-3M/chunks.m3u8?nimblesessionid=630321107",
+    "url": "http://100.10.20.10:8080/AnimalPlanet/tracks-v1a1/mono.m3u8?token=0007b42638cf45e8a1d3d6edf760a8d575d6e453-54672f6f40098a6aaa47b5f9e5e8b6f9-1782166852-1782156052",
     "type": "stream"
   },
 
