@@ -27,6 +27,12 @@
     "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
     "type": "stream"
   },
+
+  {
+    "name": "Zee Bangla HD",
+    "url": "http://172.31.177.10:8088/102/tracks-v1a1/mono.m3u8?token=46f4a074f15bd7a28bc395fb11f8a9325fe7c84a-842f6ce94201998438ec6566fdc79c6a-1782159857-1782156257",
+    "type": "stream"
+  },
   
   {
     "name": "Dipto Tv",
