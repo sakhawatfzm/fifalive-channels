@@ -18,7 +18,7 @@
   
    {
     "name": "FIFA World Cup HD",
-    "url": "http://ubuntu.moonplex.net:8080/TSports_HD/tracks-v1a1/mono.m3u8",
+    "url": "http://172.31.177.10:8088/102/tracks-v1a1/mono.m3u8?token=f9f1a37e54155e1c98d749ff77b64146f1f50807-f911ea02ed6dec3c6b0e2958e5168b1c-1782234820-1782231220",
     "type": "stream"
   },
 
