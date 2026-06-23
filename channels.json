@@ -33,6 +33,12 @@
     "url": "https://cnbox.tv/live/webapp/webapp/720.m3u8",
     "type": "stream"
   },
+
+  {
+    "name": "Star Plus HD",
+    "url": "https://cnbox.tv/live/webapp/webapp/761.m3u8",
+    "type": "stream"
+  },
   
   {
     "name": "Dipto Tv",
