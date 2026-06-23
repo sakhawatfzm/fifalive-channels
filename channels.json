@@ -3,7 +3,7 @@
  {
     "name": "Toffee Live",
     "url": "https://www.youtube.com/",
-    "type": "webview"
+    "type": "web"
   },
 {
     "name": "FIFA World Cup",
