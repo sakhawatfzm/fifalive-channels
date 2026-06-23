@@ -14,7 +14,7 @@
     
  {
     "name": "FIFA World Cup",
-    "url": "https://cnbox.tv/live/webapp/webapp/822.m3u8",
+    "url": "http://100.10.20.10:8080/TSportsHD/tracks-v1a1/mono.m3u8?token=92a49335c4b50635ded6296c2db6f11f03934709-b5745745c6b037abd2b4ae5fe8785dd0-1782244649-1782233849",
     "type": "stream"
   },
   {
