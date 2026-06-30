@@ -8,7 +8,7 @@
 
  {
     "name": "Toffee Live 2",
-    "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/2/master_1500.m3u8?hdntl=Expires=1782243942~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvewX8yG0iWve3GE0tfemRk4AwMW-549INX_Dv8oOX28CVhVE3A9-iTeqY5E_9kwpFvmBJ8icsxpHerREvkPfSsE",
+    "url": "http://172.31.177.10:8088/102/tracks-v1a1/mono.m3u8?token=31ce6faea21283f5aa3587057d2b5fe4dfd923e2-003891d31d6c1d068077b21093e0dfb8-1782843540-1782839940",
     "type": "stream"
   },
     
